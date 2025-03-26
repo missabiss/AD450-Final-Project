@@ -11,3 +11,5 @@ Data from the world happiness project collected by Gallup was downloaded from Ka
 - **README.md** project overview and file directory outline
 - **requirements.yml** for setting up environment
 - **world_happiness_report.csv** data file in CSV format
+
+[Link to kaggle data set](https://www.kaggle.com/datasets/khushikyad001/world-happiness-report)
