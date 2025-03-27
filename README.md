@@ -9,6 +9,8 @@ Data from the world happiness project collected by Gallup was downloaded from Ka
 - **.gitignore** 
 - **README.md** project overview and file directory outline
 - **happiness_eda.py** working file to run all code at once
+- **main_slide_settings.ipynb** main.ipynb edited to optimize for slide show presentation format
+- **main_slide_settings.slides.html** html slideshow presentation of main_slide_settings
 - **main.ipynb** main notebook for presenting the project * START HERE
 - **requirements.yml** for setting up environment
 - **world_happiness_report.csv** data file in CSV format
